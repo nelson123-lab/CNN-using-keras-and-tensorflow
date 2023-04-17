@@ -1,1 +1,1 @@
-# Neural-Network-from-scratch-using-sequential-class-and-adding-layer-by-layer.
+#CNN-using-sequential-class-and-adding-layer-by-layer.
